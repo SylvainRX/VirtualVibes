@@ -1,0 +1,7 @@
+.DS_Store
+.history
+build/
+screenshots/
+v810_err.txt
+pvbemu*.jar
+.vscode/settings.json
